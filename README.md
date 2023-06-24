@@ -1,1 +1,1 @@
-# check4
+# adaptive web site made for learning purpose
